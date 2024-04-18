@@ -1,0 +1,2 @@
+mlflow
+git+https://github.com/raulfrk/StrategyBuilder@v0.1.0
